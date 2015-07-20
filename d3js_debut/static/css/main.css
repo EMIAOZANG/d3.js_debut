@@ -1,0 +1,18 @@
+div.bar{
+  display: inline-block;
+  width: 20px;
+  height:75px;
+  background-color: teal;
+}
+
+svg .datcircle {
+  /*datcircle defines the generic style of the circle type that is used to represent data*/
+  opacity: 0.75;
+}
+
+svg .text {
+  /*text notations on the svg canvas*/
+  font-size: 12;
+  fill: gray;
+  font-family: "sans-serif";
+}
